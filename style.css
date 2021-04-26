@@ -1,0 +1,42 @@
+body {
+    background-color: lightsalmon;
+}
+
+/*.hide {
+    display: none;
+}
+*/
+#start-quiz {
+    background-color:#b30086;
+    height: 50px;
+    width: 50%;
+    font-family: monospace;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.choice-btn {
+    background-color:#b30086;
+    font-family: monospace;
+    height: 25px;
+    width: 50%;
+}
+
+#question-slot {
+    font-family: monospace;
+    font-size: x-large;
+}
+
+#title-card {
+    font-family: monospace;
+}
+
+#time-remaining {
+    font-family: monospace;
+    align-content: center;
+}
+
+.time-slot {
+    align-content: center;
+    text-align: center;
+}
